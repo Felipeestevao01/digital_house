@@ -53,7 +53,6 @@ function microOndas(comida, tempo){
     }else {
         return `Opção inválida, Favor repetir o pedido.`
     }
-    
 }
 
 console.log(microOndas(prato, tempo))
